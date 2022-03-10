@@ -1,2 +1,4 @@
 # Classification 
 This is a simple program for cat dog classification. It only works on my local machine but you can change all the variables that store absolute paths of folders where data is stored if you want to execute the program. The program gets all the labeled data from the dataset that needs to be pre-installed and train them using convolutional neural networks. The program asks user to upload a picture and makes a prediction whether it is a cat or dog. It has a 85% accuracy which means the model is okay. This is probably the first program for a person who is beginner and wants to build a career in this field but I have made it to pass the class so it can be improved.             
+
+The dataset used in this program is provided by kaggle.com and is accessible here: https://www.kaggle.com/c/dogs-vs-cats/data 
